@@ -1,0 +1,7 @@
+{
+  "name": "Give Me the Line",
+  "description": "An interactive digital prompter for actors and theater students to rehearse scenes with a virtual partner.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
